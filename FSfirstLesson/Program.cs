@@ -656,12 +656,12 @@ class Program
 
                 if (u == UserName && p == Password)
                 {
-                    Console.WriteLine("giriş etdiniz ✅");
+                    Console.WriteLine("giriş etdiniz");
                     break;
                 }
                 else
                 {
-                    Console.WriteLine("yanlış məlumat, yenidən cəhd et ❌");
+                    Console.WriteLine("yanlış məlumat, yenidən cəhd et");
                 }
             }
         }*/
@@ -676,7 +676,7 @@ class Program
             if (amount <= Balance)
             {
                 Balance -= amount;
-                Console.WriteLine("əməliyyat uğurludur 💸");
+                Console.WriteLine("əməliyyat uğurludur");
                 Console.WriteLine("qalan balans: " + Balance);
             }
             else
@@ -728,7 +728,7 @@ class Program
         {
             public override void MakeSound()
             {
-                Console.WriteLine("dog: hav hav 🐶");
+                Console.WriteLine("dog: hav hav");
             }
         }
 
@@ -736,7 +736,7 @@ class Program
         {
             public override void MakeSound()
             {
-                Console.WriteLine("cat: miyav 🐱");
+                Console.WriteLine("cat: meow");
             }
         }
 
@@ -787,14 +787,14 @@ class ATM
 
             if (inputPin == pin)
             {
-                Console.WriteLine("uğurla daxil oldunuz ✅");
+                Console.WriteLine("uğurla daxil oldunuz ");
                 Menu();
                 return;
             }
             else
             {
                 attempts--;
-                Console.WriteLine("yanlış pin ❌ qalan cəhd: " + attempts);
+                Console.WriteLine("yanlış pin qalan cəhd: " + attempts);
             }
         }
 
@@ -825,7 +825,7 @@ class ATM
                 if (amount <= balance)
                 {
                     balance -= amount;
-                    Console.WriteLine("pul çıxarıldı 💸");
+                    Console.WriteLine("pul çıxarıldı");
                 }
                 else
                 {
@@ -837,11 +837,11 @@ class ATM
                 Console.Write("məbləğ daxil et: ");
                 double amount = Convert.ToDouble(Console.ReadLine());
                 balance += amount;
-                Console.WriteLine("pul əlavə edildi 💰");
+                Console.WriteLine("pul əlavə edildi");
             }
             else if (choice == 4)
             {
-                Console.WriteLine("çıxış edildi 👋");
+                Console.WriteLine("çıxış edildi");
                 break;
             }
             else
@@ -883,7 +883,7 @@ class Person
     public void SetName(string value)
     {
         if (value.Length < 2)
-            Console.WriteLine("ad çox qısadır ❌");
+            Console.WriteLine("ad çox qısadır ");
         else
             name = value;
     }
