@@ -1,0 +1,14 @@
+/Users/macbook/RiderProjects/ConsoleApp2/FSfirstLesson/bin/Debug/net10.0/FSfirstLesson
+/Users/macbook/RiderProjects/ConsoleApp2/FSfirstLesson/bin/Debug/net10.0/FSfirstLesson.deps.json
+/Users/macbook/RiderProjects/ConsoleApp2/FSfirstLesson/bin/Debug/net10.0/FSfirstLesson.runtimeconfig.json
+/Users/macbook/RiderProjects/ConsoleApp2/FSfirstLesson/bin/Debug/net10.0/FSfirstLesson.dll
+/Users/macbook/RiderProjects/ConsoleApp2/FSfirstLesson/bin/Debug/net10.0/FSfirstLesson.pdb
+/Users/macbook/RiderProjects/ConsoleApp2/FSfirstLesson/obj/Debug/net10.0/FSfirstLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/RiderProjects/ConsoleApp2/FSfirstLesson/obj/Debug/net10.0/FSfirstLesson.AssemblyInfoInputs.cache
+/Users/macbook/RiderProjects/ConsoleApp2/FSfirstLesson/obj/Debug/net10.0/FSfirstLesson.AssemblyInfo.cs
+/Users/macbook/RiderProjects/ConsoleApp2/FSfirstLesson/obj/Debug/net10.0/FSfirstLesson.csproj.CoreCompileInputs.cache
+/Users/macbook/RiderProjects/ConsoleApp2/FSfirstLesson/obj/Debug/net10.0/FSfirstLesson.dll
+/Users/macbook/RiderProjects/ConsoleApp2/FSfirstLesson/obj/Debug/net10.0/refint/FSfirstLesson.dll
+/Users/macbook/RiderProjects/ConsoleApp2/FSfirstLesson/obj/Debug/net10.0/FSfirstLesson.pdb
+/Users/macbook/RiderProjects/ConsoleApp2/FSfirstLesson/obj/Debug/net10.0/FSfirstLesson.genruntimeconfig.cache
+/Users/macbook/RiderProjects/ConsoleApp2/FSfirstLesson/obj/Debug/net10.0/ref/FSfirstLesson.dll
